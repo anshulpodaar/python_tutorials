@@ -13,5 +13,6 @@
 
 ## Online Labs
 - [Introduction to Python - DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-
-
+- [learn-python3 - jerry-git - GitHub repository](https://github.com/jerry-git/learn-python3/tree/master)
+- [Corey Schafer - Pandas playlist - YouTube](https://github.com/plembo/pandas-tutorials)
+- [zero-to-mastery-ml - mrdbourke - GitHub repository](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
