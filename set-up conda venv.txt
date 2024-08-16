@@ -1,0 +1,7 @@
+cd "C:\Users\username\Anaconda3\envs"
+conda create --name my_venv_name python=3.12
+conda activate my_venv_name
+cd "C:\Users\username\Documents\Projects\my_project"
+pip install -r requirements.txt --force-reinstall
+conda install jupyter notebook
+python
