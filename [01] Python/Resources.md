@@ -2,7 +2,7 @@
 
 ## Setup environment
 1. [Install Python](https://www.python.org/downloads/) (either the latest stable version of Python 3, or a specific version as per requirements)
-2. [Set up virtual environment]()
+2. [Set up virtual environment](https://github.com/anshulpodaar/python_tutorials/blob/main/%5B01%5D%20Python/set-up%20conda%20venv.txt)
 
 ## Online Learning Resources
 - [Corey Schafer - Python playlist - YouTube](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
